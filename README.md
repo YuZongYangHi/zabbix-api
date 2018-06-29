@@ -1,2 +1,1 @@
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+![image](https://raw.githubusercontent.com/YuZongYangHi/zabbix-api/master/image/image1.jpg)
